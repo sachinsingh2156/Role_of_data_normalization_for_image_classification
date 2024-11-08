@@ -1,8 +1,4 @@
-Here's a sample `README.md` file based on your project requirements and the instructions provided:
-
----
-
-# Medical Image Classification Project
+# Role of Data Normalization for Image Classification 
 
 This project applies data normalization and kernel methods to classify medical images into benign and malignant categories. Using techniques like Kernel PCA and Support Vector Machine (SVM) with RBF kernels, the project achieves high recall for malignant cases, making it potentially useful for early detection in medical diagnostics.
 
@@ -42,8 +38,8 @@ pip install numpy matplotlib seaborn pillow scikit-learn tensorflow
    Clone this repository or download the code as a ZIP file and extract it to your desired location.
 
    ```bash
-   git clone https://github.com/your-username/medical-image-classification.git
-   cd medical-image-classification
+   git clone https://github.com/sachinsingh2156/Role_of_data_normalization_for_image_classification.git
+   cd Role_of_data_normalization_for_image_classification
    ```
 
 2. **Prepare the Dataset**:
@@ -77,7 +73,7 @@ pip install numpy matplotlib seaborn pillow scikit-learn tensorflow
      ```bash
      jupyter notebook
      ```
-   - Open the notebook file (`medical_image_classification.ipynb`).
+   - Open the notebook file (`Data_normalization.ipynb`).
 
 2. **Run the Notebook Cells**:
    - The notebook is structured with clear, sequential cells. Run each cell from top to bottom for data loading, preprocessing, model training, evaluation, and visualization.
